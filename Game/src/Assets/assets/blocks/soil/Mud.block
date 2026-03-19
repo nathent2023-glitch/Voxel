@@ -1,0 +1,7 @@
+/**
+ * Mud is wet dirt.
+ */
+{
+    "basedOn": "CoreAssets:Dirt",
+    "tile": "CoreAssets:Mud"
+}
